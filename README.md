@@ -13,10 +13,6 @@ $ npm install -g live-server                  # Install live-server if you haven
 $ live-server                                 # Run live-server and open it in your browser
 ```
 
-### Fork It And Make Your Own
+## Origin
 
-You can [fork this repo](https://help.github.com/articles/fork-a-repo/) to create your own boilerplate, and use it with `vue-cli`:
-
-``` bash
-vue init username/repo my-project
-```
+This repository is forked from https://github.com/vuejs-templates/simple. Check out the source repository for webpack and browserify templates.
