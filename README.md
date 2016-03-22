@@ -1,6 +1,6 @@
 # vue-boilerplate
 
-## What is it?
+## Usage
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
